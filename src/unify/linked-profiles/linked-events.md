@@ -168,7 +168,7 @@ For Linked Events, Segment supports all Actions Destinations.
 
 Test events don't send Linked Events. You'll only see test events that come from the source debugger, which is ahead of the event enrichment.
 
- #### Can I view my Linked Events Audit Trail? 
+#### Can I view my Linked Events Audit Trail? 
 
 Linked Events uses the existing Audit Trail in your Segment workspace. To view your Audit Trail, navigate to **Settings > Admin > Audit Trail**.
 
